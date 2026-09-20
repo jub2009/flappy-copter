@@ -1,3 +1,4 @@
 # Flappy Copter
 This was a school project for my programming class during my second year of high school when I was being taught JavaScript. The final project of the year was to make a Flappy Bird clone in JS. However, the game had to match the example project in function exactly. Towards the end of the project, another direction was added, which was to add three new features to the game. I will admit I got a little bit lazy, so I added a random number generator to the title screen, two alternate modes where the physics of the game are intentionally messed up, and changed the color palette. I am open to any criticism of my code, but make sure to open an issue with everything you think can be improved. Eventually, I would like to remake this project in a sense, probably just a recompilation. 
 
+## ![Made by Jimmy](jimmybanner4.png)
